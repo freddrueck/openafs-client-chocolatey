@@ -1,4 +1,4 @@
-# pgina-chocolatey
+# openafs-client-chocolatey
 
 Chocolatey package for the OpenAFS Client https://openafs.org/
 
