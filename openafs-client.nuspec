@@ -15,8 +15,8 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <projectSourceUrl>http://git.openafs.org/?p=openafs.git;a=summary</projectSourceUrl>
     <docsUrl>http://docs.openafs.org/index.html</docsUrl>
-    <bugTrackerUrl>http://bad</bugTrackerUrl>
-    <iconUrl>http://bad</iconUrl>
+    <bugTrackerUrl>mailto:openafs-bugs@openafs.org</bugTrackerUrl>
+    <iconUrl>https://cdn.rawgit.com/freddrueck/openafs-client-chocolatey/61ef85fcc5250edc81ab99ce17b4aa9947cf4833/afslogo.png</iconUrl>
     <releaseNotes>https://www.openafs.org/release/latest-unstable.html)</releaseNotes>
 
     <tags>afs openafs</tags>
